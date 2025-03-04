@@ -3,7 +3,7 @@
 ## Intro
 Custom OCR neural network pipeline for a specific use-case : entity recognition in building environments, referenced by an indoor navigation mobile app.
 
-For local download and inference suited for hardware specs found on most pervasive mobile devices worldwide.
+Built for local download and inference suited for hardware specs found on most pervasive mobile devices worldwide.
 
 ## Need for such indoor navigation application
 ![image](https://github.com/user-attachments/assets/2aa77910-645c-4df7-924b-53b8d457e7d0) 
