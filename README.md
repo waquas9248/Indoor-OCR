@@ -5,8 +5,10 @@ Custom OCR for a specific use-case : entity recognition in building environments
 For local download and inference suited for hardware specs found on most pervasive mobile devices worldwide.
 
 ## Need for such indoor navigation application
-![image](https://github.com/user-attachments/assets/2aa77910-645c-4df7-924b-53b8d457e7d0) (Reference: nfpa.org)
-![image](https://github.com/user-attachments/assets/64e8bd12-3ef6-4e49-9a1c-f078f701f848) (Reference: ncbi.nlm.nih.gov)
+![image](https://github.com/user-attachments/assets/2aa77910-645c-4df7-924b-53b8d457e7d0) 
+(Reference: nfpa.org)
+![image](https://github.com/user-attachments/assets/64e8bd12-3ef6-4e49-9a1c-f078f701f848) 
+(Reference: ncbi.nlm.nih.gov)
 
 ## Dataset
 TextOCR - https://textvqa.org/textocr/dataset/
