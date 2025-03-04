@@ -6,6 +6,7 @@ from torchvision.models.detection.rpn import AnchorGenerator
 from torchvision.models.detection.image_list import ImageList
 from torchvision.ops import box_iou
 from tqdm import tqdm
+from ../model/TextDetectionNet import TextDetectionNet
 
 model = TextDetectionNet().to(device)
 optimizer = optim.Adam(model.parameters(), lr=0.001, weight_decay=1e-4)
