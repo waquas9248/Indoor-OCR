@@ -1,7 +1,8 @@
 # Indoor-OCR
 
 ## Intro
-Custom OCR for a specific use-case : entity recognition in building environments, referenced by an indoor navigation mobile app.
+Custom OCR neural network pipeline for a specific use-case : entity recognition in building environments, referenced by an indoor navigation mobile app.
+
 For local download and inference suited for hardware specs found on most pervasive mobile devices worldwide.
 
 ## Need for such indoor navigation application
