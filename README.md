@@ -16,6 +16,6 @@ For local download and inference suited for hardware specs found on most pervasi
 ## Dataset
 TextOCR - https://textvqa.org/textocr/dataset/
 
-## Application architecture (proposed)
+## Application architecture
 ![image](https://github.com/user-attachments/assets/3c473e62-3507-48b7-8e68-ca156fc66509)
 
