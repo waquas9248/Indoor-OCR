@@ -19,3 +19,6 @@ TextOCR - https://textvqa.org/textocr/dataset/
 ## Application architecture
 ![image](https://github.com/user-attachments/assets/3c473e62-3507-48b7-8e68-ca156fc66509)
 
+## Post-processing steps
+NMS for TextDetection, on IoUs of anchor boxes output
+CTC for TextRecognition, on list of all time-step ascii char probabilities output
